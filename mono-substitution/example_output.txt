@@ -1,0 +1,10 @@
+--- Monoalphabetic Substitution Cipher ---
+
+Please enter string to encrypt:
+HELLO WORLD
+
+Your encrypted message: 
+EZOOD PDLOM
+
+Your substitution key:
+ {'A': 'T', 'B': 'W', 'C': 'V', 'D': 'M', 'E': 'Z', 'F': 'R', 'G': 'N', 'H': 'E', 'I': 'H', 'J': 'K', 'K': 'X', 'L': 'O', 'M': 'S', 'N': 'I', 'O': 'D', 'P': 'Y', 'Q': 'G', 'R': 'L', 'S': 'B', 'T': 'U', 'U': 'C', 'V': 'A', 'W': 'P', 'X': 'Q', 'Y': 'F', 'Z': 'J'}
