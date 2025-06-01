@@ -33,3 +33,4 @@ python aes_cbc_encryption
 - `aes_cbc_encryption.py` - main encryption/decryption script
 - `ingredient.txt` - sample plaintext input file
 - `sealed_ingredient.bin` - binary file containing IV + ciphertext
+
